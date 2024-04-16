@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "soundFile": "A:\\major project\\Avatarfusion\\backend-part\\audios\\b504ce64-7554-43b9-9feb-1572860f6355.wav",
+    "duration": 4.05
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.04, "value": "X" },
+    { "start": 0.04, "end": 0.37, "value": "B" },
+    { "start": 0.37, "end": 0.44, "value": "C" },
+    { "start": 0.44, "end": 0.51, "value": "D" },
+    { "start": 0.51, "end": 0.59, "value": "A" },
+    { "start": 0.59, "end": 0.88, "value": "C" },
+    { "start": 0.88, "end": 1.16, "value": "B" },
+    { "start": 1.16, "end": 1.30, "value": "C" },
+    { "start": 1.30, "end": 1.44, "value": "B" },
+    { "start": 1.44, "end": 1.84, "value": "X" },
+    { "start": 1.84, "end": 1.90, "value": "B" },
+    { "start": 1.90, "end": 1.95, "value": "C" },
+    { "start": 1.95, "end": 2.02, "value": "B" },
+    { "start": 2.02, "end": 2.09, "value": "C" },
+    { "start": 2.09, "end": 2.17, "value": "A" },
+    { "start": 2.17, "end": 2.37, "value": "C" },
+    { "start": 2.37, "end": 2.72, "value": "B" },
+    { "start": 2.72, "end": 2.86, "value": "C" },
+    { "start": 2.86, "end": 2.93, "value": "G" },
+    { "start": 2.93, "end": 3.14, "value": "C" },
+    { "start": 3.14, "end": 3.63, "value": "B" },
+    { "start": 3.63, "end": 4.05, "value": "X" }
+  ]
+}

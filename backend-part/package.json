@@ -1,0 +1,24 @@
+{
+  "name": "Avatar_Fusion",
+  "version": "1.0.0",
+  "description": "Backend for the AvatarFusion app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js --ext js"
+  },
+  "author": "rahul kc",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.17.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "elevenlabs-node": "^1.2.0",
+    "express": "^4.18.2",
+    "openai": "^4.24.1",
+    "vite": "^5.0.10"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "soundFile": "A:\\major project\\Avatarfusion\\backend-part\\audios\\b508c361-9019-434e-ac1b-f670b1320850.wav",
+    "duration": 2.13
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.10, "value": "B" },
+    { "start": 0.10, "end": 0.21, "value": "G" },
+    { "start": 0.21, "end": 0.35, "value": "C" },
+    { "start": 0.35, "end": 0.42, "value": "B" },
+    { "start": 0.42, "end": 0.49, "value": "C" },
+    { "start": 0.49, "end": 0.63, "value": "B" },
+    { "start": 0.63, "end": 0.90, "value": "X" },
+    { "start": 0.90, "end": 0.96, "value": "B" },
+    { "start": 0.96, "end": 1.01, "value": "G" },
+    { "start": 1.01, "end": 1.08, "value": "C" },
+    { "start": 1.08, "end": 1.22, "value": "E" },
+    { "start": 1.22, "end": 1.29, "value": "B" },
+    { "start": 1.29, "end": 1.57, "value": "C" },
+    { "start": 1.57, "end": 1.71, "value": "B" },
+    { "start": 1.71, "end": 2.13, "value": "X" }
+  ]
+}
